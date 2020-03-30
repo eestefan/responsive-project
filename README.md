@@ -1,3 +1,3 @@
 # HTML & CSS Review
 
-https://eestefan.github.io/html-css-review-new/mango-pudding.html
+https://eestefan.github.io/responsive-project/mango-pudding.html
