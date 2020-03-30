@@ -2,13 +2,10 @@
 
   div {
     width: 4in;
-  	height: 6in;
+    height: 6in;
     margin: 0.5in;
     border: 1pt solid black;
     padding: .125in;
-  }
-
-  body {
     background: white;
     color: black;
     font: 9pt Georgia, "Times New Roman", Times, serif;
