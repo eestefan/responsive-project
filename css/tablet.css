@@ -1,0 +1,16 @@
+@media screen and (orientation: landscape) {
+  body {
+    background: white;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  body {
+    background: white;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+}
