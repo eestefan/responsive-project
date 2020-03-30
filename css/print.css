@@ -1,9 +1,13 @@
 @media print {
+  body {
+    width: 4.25in;
+    height: 5.5in;
     margin: 0.5in;
     padding: .125in;
     background: white;
     color: black;
     font: 9pt Georgia, "Times New Roman", Times, serif;
+    line-height: 11.5pt;
   }
 
   img {
